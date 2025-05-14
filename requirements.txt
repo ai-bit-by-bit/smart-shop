@@ -1,0 +1,8 @@
+langchain
+crewai
+streamlit
+sqlite-utils
+sqlalchemy
+pydantic
+fastapi
+uvicorn
